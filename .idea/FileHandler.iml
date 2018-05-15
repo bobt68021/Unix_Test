@@ -7,5 +7,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="jruby-9.1.17.0-p0" jdkType="JRUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="childprocess (v0.9.0, jruby-9.1.17.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.23, jruby-9.1.17.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.2.1, jruby-9.1.17.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v3.12.0, jruby-9.1.17.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="watir-webdriver (v0.9.9, jruby-9.1.17.0-p0) [gem]" level="application" />
   </component>
 </module>
