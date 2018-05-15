@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="847376bd-9d35-4727-9c06-c2b4b2b3f549" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,15 +13,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/FileHandler@test.rcov" NAME="test Coverage Results" MODIFIED="1526423033599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="FileHandler" />
+    <SUITE FILE_PATH="coverage/FileHandler@test.rcov" NAME="test Coverage Results" MODIFIED="1526424311445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="FileHandler" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="out.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -32,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/test2.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -47,8 +54,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test" />
-        <option value="$PROJECT_DIR$/test2.txt" />
         <option value="$PROJECT_DIR$/test.rb" />
+        <option value="$PROJECT_DIR$/test2.txt" />
       </list>
     </option>
   </component>
@@ -61,7 +68,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="870" />
     <option name="y" value="285" />
     <option name="width" value="2100" />
@@ -137,25 +144,24 @@
       <updated>1526421624591</updated>
       <workItem from="1526421627053" duration="987000" />
       <workItem from="1526422677400" duration="361000" />
-      <workItem from="1526423962879" duration="13000" />
+      <workItem from="1526423962879" duration="357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1361000" />
+    <option name="totallyTimeSpent" value="1705000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="580" y="190" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13510348" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.501443" side_tool="true" visible="true" weight="0.5062007" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50175714" side_tool="true" visible="true" weight="0.5061444" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498557" weight="0.5062007" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49824288" visible="true" weight="0.5061444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -202,14 +208,21 @@
     <entry file="file://$PROJECT_DIR$/test2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
